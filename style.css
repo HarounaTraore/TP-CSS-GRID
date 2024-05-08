@@ -11,6 +11,9 @@
 
 body{
   margin: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .contener{
     width: max-content;
