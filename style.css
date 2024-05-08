@@ -53,6 +53,11 @@ h1{
     text-align: center;
     box-sizing: border-box;
 }
+.elements div:hover{
+    color: white;
+    background-color: var(--rouge);
+    cursor: pointer;
+}
 .item1{
     grid-column: 1/18
 }
